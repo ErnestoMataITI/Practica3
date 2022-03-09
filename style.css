@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    padding: 10px;
+    background-color: black;
+}
+h1{
+    color: violet;
+}
+h2{
+    color: rgb(27, 57, 190);
+}
+body{
+    position: static;
+}
+
+article{
+    margin: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(63, 109, 33, 0.719);
+    color: rgb(38, 173, 151);
+}
+
+#caja1{
+    float: right;
+}
